@@ -1,8 +1,7 @@
 // Mini Project:-Bluetooth Controlled Home Automation Using Android APP
-// Group No. :
-// Vivek Dubey (1140434052)
-// Jayanti Prasad (11404340)
 
+// 
+ 
 /* Components Required:-
  *  
  * Arduino UNO 
